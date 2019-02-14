@@ -19,11 +19,6 @@ def reformat_languages(languages)
       new_hash[name][:style] << :functional
     end
   end
-
-
-
-
-
 binding.pry
   new_hash
 end
